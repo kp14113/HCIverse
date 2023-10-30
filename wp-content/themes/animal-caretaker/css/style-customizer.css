@@ -1,0 +1,44 @@
+.premium_info ul li a, .up-to-pro {
+	font-family: 'Noto Sans', sans-serif;
+    font-weight: bold;
+	padding: 15px 10px;
+	display: block;
+	text-decoration: none;
+	color: #fff;
+	border-radius: 3px;
+	font-size: 12px;
+    letter-spacing: 1.4px;
+	overflow: hidden;
+    -webkit-transition: .3s;
+    transition: .3s;
+    background: #ed6436;
+    z-index: 2;    
+}
+.premium_info ul li a:hover, .premium_info ul li a:focus{
+	transform: translateY(-3px);
+    color: #fff;
+    box-shadow: 0 0.5rem 1.875rem rgba(0, 0, 0, 0.15);	
+}
+li#accordion-section-upgrade_premium .accordion-section-title:after {
+    content: "\f174" !important;
+    color: #fff !important;
+}
+li#accordion-section-upgrade_premium .accordion-section-title,
+li#accordion-section-upgrade_premium .accordion-section-title:hover {
+	color: #fff !important;
+    background: #ed6436 !important;	
+	border-left: none;
+}
+.customize-control-kirki-dashicons .icons-wrapper{
+	overflow: unset !important;
+}
+.customize-control-kirki-dashicons .icons-wrapper input:checked+label .dashicons {
+    border: none !important;
+    color: #3498db !important;
+}
+div#input_animal_caretaker_post_layout img {
+    max-width: 100%;
+    max-width: 70px;
+    cursor: pointer;
+    border: 3px solid #ddd;
+}

@@ -1,0 +1,176 @@
+.hello-agency-admin-notice {
+  padding: 30px;
+}
+.hello-agency-admin-notice .info-content h5 {
+  margin: 0;
+  padding: 0;
+  font-size: 12px;
+  text-transform: uppercase;
+  font-weight: 600;
+  color: #2271b1;
+}
+.hello-agency-admin-notice .info-content h1 {
+  font-size: 28px;
+  font-weight: 600;
+  line-height: 35px;
+  text-transform: capitalize;
+  margin: 10px 0 !important;
+}
+.hello-agency-admin-notice #install-activate-button {
+  background-color: #2271b1;
+  color: #fff;
+}
+.hello-agency-admin-notice #install-activate-button:hover,
+.hello-agency-admin-notice .button.admin-button.info-button:hover {
+  background: #135e96;
+  border-color: #135e96;
+  color: #fff;
+}
+.hello-agency-admin-notice .button.admin-button.info-button {
+  background: #2271b1;
+  color: #ffffff;
+  padding: 6px 15px;
+  font-weight: 600;
+}
+.hello-agency-admin-notice .admin-button.dismiss-notice.btn-notice-dismiss {
+  color: #a4a4a7;
+  display: inline-block;
+  margin: 15px;
+}
+.hello-agency-admin-notice .admin-button.dismiss-notice.btn-notice-dismiss:hover {
+  color: #d63638;
+}
+.hello-agency-admin-notice .notice-text {
+  display: inline-block;
+  width: 100%;
+  margin: 0 0 10px;
+  font-size: 16px;
+}
+.dashboard-about-hello-agency {
+  padding: 30px;
+  background: #fff;
+  box-sizing: border-box;
+  width: 98.5%;
+  margin: 20px 0 0 0;
+}
+.dashboard-about-hello-agency .half-col {
+  width: 50%;
+  display: inline-block;
+}
+
+.dashboard-about-hello-agency .featured-list {
+  display: flex;
+  grid-gap: 30px;
+}
+.dashboard-about-hello-agency .half-col ul ul {
+  margin: 10px 0 20px;
+  padding: 0 0 0 30px;
+}
+.dashboard-about-hello-agency .half-col ul ul li,
+.dashboard-about-hello-agency .half-col.pro-features li {
+  position: relative;
+}
+.dashboard-about-hello-agency .half-col ul ul li:before,
+.dashboard-about-hello-agency .half-col.pro-features li:before {
+  content: "\2713";
+  background: #bdbfc2;
+  width: 13px;
+  height: 13px;
+  position: absolute;
+  left: -20px;
+  top: 2px;
+  font-size: 12px;
+  line-height: 12px;
+  text-align: center;
+  border-radius: 20px;
+  color: #fff;
+}
+.dashboard-about-hello-agency .half-col.pro-features li {
+  font-size: 14px;
+  font-weight: 600;
+  margin: 10px 0;
+}
+.dashboard-about-hello-agency .half-col.pro-features li:before {
+  background: #04cf9c;
+}
+.dashboard-about-hello-agency .half-col.pro-features ul {
+  margin: 0;
+  padding: 0 0 0 18px;
+}
+
+.dashboard-about-hello-agency .upgrade-btn.button {
+  text-transform: uppercase;
+  background: #4261ee;
+  border-color: #4261ee;
+  color: #fff;
+  display: inline-block;
+  margin-top: 21px;
+  padding: 15px 30px;
+}
+.dashboard-about-hello-agency .upgrade-btn.button:hover {
+  background: #f39446;
+  border-color: #f39446;
+}
+.hello-agency-admin-notice .info-content h3,
+.dashboard-about-hello-agency h3,
+.hello-agency-admin-notice .info-content .hello-agency-required-plugin li h4,
+.dashboard-about-hello-agency .hello-agency-required-plugin li h4 {
+  margin: 0;
+}
+
+.hello-agency-admin-notice .info-content .hello-agency-required-plugin li,
+.dashboard-about-hello-agency .hello-agency-required-plugin li {
+  margin: 5px 0;
+}
+.hello-agency-admin-notice .info-content .hello-agency-required-plugin,
+.dashboard-about-hello-agency .hello-agency-required-plugin {
+  margin: 10px 0 30px;
+}
+.dashboard-about-hello-agency .hello-agency-baisc-guideline {
+  margin: 20px 0;
+  display: inline-block;
+  width: 100%;
+}
+.dashboard-about-hello-agency .hello-agency-baisc-guideline .featured-box {
+  padding: 5px 25px;
+  border: 1px solid #666;
+  border-radius: 6px;
+  width: 49%;
+  float: left;
+  box-sizing: border-box;
+  margin-bottom: 20px;
+}
+.dashboard-about-hello-agency h3.hello-agency-baisc-guideline-header {
+  width: 100%;
+  display: inline-block;
+  margin: 20px 0 0;
+}
+.dashboard-about-hello-agency .hello-agency-baisc-guideline .featured-box:nth-child(2n + 2) {
+  margin-left: 2%;
+}
+.dashboard-about-hello-agency .hello-agency-baisc-guideline .featured-box li strong {
+  width: 100%;
+  display: inline-block;
+  margin-bottom: 10px;
+  font-size: 16px;
+}
+.dashboard-about-hello-agency h3 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+.hello-agency-admin-notice {
+  display: flex;
+}
+.hello-agency-admin-notice .info-content {
+  width: 60%;
+}
+.hello-agency-admin-notice .theme-hero-screens {
+  text-align: right;
+  width: 40%;
+}
+.hello-agency-admin-notice .theme-hero-screens img {
+  max-width: 400px;
+}
+.dashboard-about-hello-agency p {
+  font-size: 16px;
+}
